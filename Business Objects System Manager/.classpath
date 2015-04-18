@@ -2,11 +2,6 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
-	<classpathentry kind="lib" path="C:/Users/dkirk/Documents/Eclipse Workspace/Business Objects Manager/lib/activation.jar"/>
-	<classpathentry kind="lib" path="C:/Users/dkirk/Documents/Eclipse Workspace/Business Objects Manager/lib/mail.jar"/>
-	<classpathentry kind="lib" path="C:/Users/dkirk/Documents/Eclipse Workspace/Business Objects Manager/lib/msbase.jar"/>
-	<classpathentry kind="lib" path="C:/Users/dkirk/Documents/Eclipse Workspace/Business Objects Manager/lib/msutil.jar"/>
-	<classpathentry kind="lib" path="C:/Users/dkirk/Documents/Eclipse Workspace/SQL JDBC Library/SQL Server JDBC Drivers 4.0/sqljdbc4.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Business Objects Resource Library"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
